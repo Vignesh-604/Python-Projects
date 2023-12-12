@@ -1,6 +1,6 @@
 # YouTube Videos Downloader GUI
 
-Clone the repository to get the exe file [Pytube_GUI-V2.exe] (Entire project in single executable file or app)   
+Clone the repository to get the exe file [Pytube_GUI-V2.exe](https://github.com/Vignesh-604/Python-Projects/blob/main/Yt%20Videos%20Downloader/Pytube_GUI-V2.exe) (Entire project in single executable file or app)   
 
 This subfolder contains the python script to create a GUI to download videos in 720p,360p or only audio (MP3) version of the video. The script uses the tkinter and [customtkinter](https://github.com/TomSchimansky/CustomTkinter) to create the GUI window and it's widgets and the [Pytube](https://github.com/pytube/pytube) library to download videos. Also uses 'os' for file path requirements and threading for multithreading task.
 
